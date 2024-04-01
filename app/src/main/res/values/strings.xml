@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">30 days of God love</string>
+    <string name="title1">Job 6:4 </string>
+    <string name="job_6">Anyone who withholds kindness from a friend forsakes the fear of the Almighty. Job 6:4</string>
+    <string name="title2">Psalm 41:1 </string>
+    <string name="psalm">Psalm 41:1 Blessed are those who have regard for the weak; the Lord delivers them in times of trouble.</string>
+    <string name="title3">Proverbs 3:27 </string>
+    <string name="proverbs">Proverbs 3:27
+Do not withhold good from those to whom it is due, when it is in your power to act.</string>
+    <string name="title4">Isaiah 1:17 </string>
+    <string name="isaiah">Isaiah 1:17
+Learn to do right; seek justice. Defend the oppressed. Take up the cause of the fatherless; plead the case of the widow.</string>
+    <string name="title5">Micah 6:8 </string>
+    <string name="micah">Micah 6:8
+He has shown you, O mortal, what is good.And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God.</string>
+    <string name="title6"> Matthew 5:16</string>
+    <string name="matthew">Matthew 5:16
+“In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.”</string>
+
+    <string name="expand_button_content_description">See more or less information about the versus.</string>
+
+</resources>
